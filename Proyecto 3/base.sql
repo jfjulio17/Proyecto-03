@@ -1,6 +1,6 @@
-DROP DATABASE if exists base1;
-create database base1;
-use base1;
+DROP DATABASE if exists base;
+create database base;
+use base;
 
 
 -- Creación de la tabla Producto
